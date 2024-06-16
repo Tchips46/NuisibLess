@@ -32,7 +32,7 @@ Ce projet utilise des images satellites récupérées via Google Maps et les ana
 ![Resultat champ infeste](results/resultat_champ_infecte.png)
 
 #### Design UI/UX (Figma)
-
+https://www.figma.com/design/6CdQmzY0HaVzsxh4rLJbaJ/Untitled?node-id=0-1&t=rUYNWafIqpeAtbuY-1
 
 #### Business Model
 https://www.canva.com/design/DAGINQSHm1I/ZhoH38DCnLxYEY7Mc-cqsw/edit
